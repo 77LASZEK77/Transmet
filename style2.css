@@ -274,13 +274,6 @@ body {
       grid-template-columns: 1fr;
     }
 
-    .first-group {
-        width: 140%;
-    }
-
-    .lastsection{
-        width: 140%;
-    }
         
     .pricing-card {
       max-width: 400px;
