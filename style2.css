@@ -273,7 +273,15 @@ body {
     .pricing-cards {
       grid-template-columns: 1fr;
     }
-    
+
+    .first-group {
+        width: 100%;
+    }
+
+    .lastsection{
+        width: 100%;
+    }
+        
     .pricing-card {
       max-width: 400px;
       margin: 0 auto;
@@ -288,12 +296,10 @@ body {
         padding: 0;
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
-        max-width: 150%;
     }
   
     body {
         margin: 0;
         font-family: 'Poppins', sans-serif;
-        max-width: 150%;
 }
   }
