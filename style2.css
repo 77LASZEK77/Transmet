@@ -264,11 +264,6 @@ body {
   }
   
 @media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    gap: 1rem;
-    padding: 0 1rem;
-  }
   .main-section,
   .pricing-section {
     padding: 2rem 0.5rem;
