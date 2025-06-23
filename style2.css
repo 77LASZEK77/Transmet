@@ -274,22 +274,16 @@ body {
     padding: 2rem 0.5rem;
   }
   .first-group {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 1rem 0;
-  }
-  .first-group img {
-    margin-left: 0;
-    margin-top: 0;
-    height: 80px;
-  }
-  .first-group h1 {
-    font-size: 1.5rem;
-    margin-left: 0;
-    margin-top: 0.5rem;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem 0;
   }
   .pricing-cards {
     grid-template-columns: 1fr;
+  }
+  .btn-group {
+    margin: 1rem 0 0 5%;
+    flex-wrap: wrap;
   }
   .pricing-card {
     max-width: 100%;
